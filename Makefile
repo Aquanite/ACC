@@ -19,4 +19,4 @@ test: $(TARGET)
 	./$(TARGET) -mx86_64 -o test/00/x86_64.s test/00/00.c
 
 
-.PHONY: clean test
+.PHONY: clean test 
