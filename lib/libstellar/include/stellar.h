@@ -1,0 +1,6 @@
+#ifndef LIBSTELLAR_STELLAR_WRAPPER_H
+#define LIBSTELLAR_STELLAR_WRAPPER_H
+
+#include <libstellar/stellar.h>
+
+#endif // LIBSTELLAR_STELLAR_WRAPPER_H
